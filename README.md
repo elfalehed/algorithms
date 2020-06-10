@@ -8,7 +8,7 @@ The main idea of the algorithms is to divide the given sorted array A into two s
 
 * :bookmark: **Linear Search:** <br />
 In this searching technique, we compare each array element with the key element (k), that we are looking for.
-It's a very simple algorithm, but you may need to check every element of the array. If the key element is presented in the array, then the search is successful, otherwise is not.
+It's a very simple algorithm, but you may need to check every element of the array. If the key element is presented in the array, then the search is successful, otherwise is not. <br />
 (You can read the code "LinearSearch.ipynb" // Everything documented, commented. <br />
 
 
