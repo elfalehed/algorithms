@@ -12,9 +12,8 @@ It's a very simple algorithm, but you may need to check every element of the arr
 (You can read the code "LinearSearch.ipynb" // Everything documented, commented. <br />
 
 * :bookmark: **Jump Search:** <br />
-Jump search is a searching algorithms for sorted arrays. The basic idea is to check fewer elements(than linear algebra) by jumping ahead. 
-
-
+Jump search is a searching algorithms for sorted arrays. The basic idea is to check fewer elements(than linear algebra) by jumping ahead. <br />
+(You can read the code "LinearSearch.ipynb" // Everything documented, commented. 
 
 
 
