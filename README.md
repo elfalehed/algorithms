@@ -11,7 +11,7 @@ In this searching technique, we compare each array element with the key element 
 It's a very simple algorithm, but you may need to check every element of the array. If the key element is presented in the array, then the search is successful, otherwise is not. <br />
 (You can read the code "LinearSearch.ipynb" // Everything documented, commented. <br />
 
-* :bookmar: **Jump Search:** <br />
+* :bookmark: **Jump Search:** <br />
 Jump search is a searching algorithms for sorted arrays. The basic idea is to check fewer elements(than linear algebra) by jumping ahead. 
 
 
