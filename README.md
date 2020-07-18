@@ -13,11 +13,11 @@ The main idea of the algorithms is to divide the given sorted array A into two s
 * :bookmark: **Linear Search:** <br />
 In this searching technique, we compare each array element with the key element (k), that we are looking for.
 It's a very simple algorithm, but you may need to check every element of the array. If the key element is presented in the array, then the search is successful, otherwise is not. <br />
-(You can read the code "LinearSearch.ipynb" // Everything documented, commented. <br />
+(You can read the code "LinearSearch.ipynb" // Everything documented, commented) <br />
 
 * :bookmark: **Jump Search:** <br />
 Jump search is a searching algorithms for sorted arrays. The basic idea is to check fewer elements(than linear algebra) by jumping ahead. <br />
-(You can read the code "JumpSearch.ipynb" // Everything documented, commented. <br /> 
+(You can read the code "JumpSearch.ipynb" // Everything documented, commented) <br /> 
 
 ## :rocket: Recursive algorithms: <br />
 A recursive algorithm is an algorithm which calls itself with "smaller (or simpler)" input values, and which obtains the result for the current input by 
@@ -28,7 +28,7 @@ applying simple operations to the returned value for the smaller (or simpler) in
 Recursion means "defining a problem in terms of itself". This can be a very powerful tool in writing algorithms. 
 Recursion comes directly from Mathematics, where there are many examples of expressions written in terms of themselves. 
 For example, the Fibonacci sequence is defined as: F(i) = F(i-1) + F(i-2) 
-(You can read the cide "Fibonacci_Sequence.ipynb" // Everything documented, commented <br /> 
+(You can read the cide "Fibonacci_Sequence.ipynb" // Everything documented, commented) <br /> 
 
 
 
