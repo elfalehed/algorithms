@@ -30,7 +30,8 @@ Recursion comes directly from Mathematics, where there are many examples of expr
 For example, the Fibonacci sequence is defined as: F(i) = F(i-1) + F(i-2) 
 (You can read the cide "Fibonacci_Sequence.ipynb" // Everything documented, commented) <br /> 
 
-
+## :rocket: Backtracking algorithms: <br /> 
+Backtracking is a general algorithm for finding all solutions to some computational problems, notably constraint satisfaction problems, that incrementally builds candidates to the solutions, and abandons a candidate as soon as it determines that the candidate cannot possibly be completed to a valid solution. <br /> 
 
 
 
