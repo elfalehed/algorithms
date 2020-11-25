@@ -1,5 +1,5 @@
-# :notebook: py.algorithms
-python algorithms <br /> <br />
+# :notebook: algorithms
+some algorithms implemented in python, cpp and javascript <br /> <br />
 
 ## :rocket: Searching algorithms: <br />
 In computer science, a search algorithm is any algorithm which solves the search problem, namely, to retrieve information stored within some data structure,
