@@ -41,7 +41,7 @@ You can optimize your searching via using multiple methods to do the work. A Sor
 * :bookmark: **Bubblle Sort**: <br />
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 <br />
-* :bookmar: **Recursive Sorting**: <br />
+* :bookmark: **Recursive Sorting**: <br />
 Its the same as the bubble sort but we'll implement it recursively.Recursive Bubble Sort has no performance/implementation advantages, but can be a good question to check one’s understanding of Bubble Sort and recursion.
 If we take a closer look at Bubble Sort algorithm, we can notice that in first pass, we move largest element to end (Assuming sorting in increasing order). In second pass, we move second largest element to second last position and so on.<br />
 
