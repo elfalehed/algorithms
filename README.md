@@ -38,10 +38,10 @@ Backtracking is a general algorithm for finding all solutions to some computatio
 ## :rocket: Sorting Algorithms: <br />
 Sorting algorithms were Basically made to sort a specific data structure such as an array, vector, list..etc 
 You can optimize your searching via using multiple methods to do the work. A Sorting Algorithm is used to rearrange a given array or list elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of element in the respective data structure. 
-* :bookmark: **Bubblle Sort**: <br />
+* :bookmark: **Bubble Sort**: <br />
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 <br />
-* :bookmark: **Recursive Sorting**: <br />
+* :bookmark: **Recursive Sorting** : <br />
 Its the same as the bubble sort but we'll implement it recursively.Recursive Bubble Sort has no performance/implementation advantages, but can be a good question to check one’s understanding of Bubble Sort and recursion.
 If we take a closer look at Bubble Sort algorithm, we can notice that in first pass, we move largest element to end (Assuming sorting in increasing order). In second pass, we move second largest element to second last position and so on.<br />
 
